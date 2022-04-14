@@ -20,6 +20,9 @@
     padding-top: 100px;
     line-height: 3;
 }
+.part1-1 img{
+    max-width: 300px;
+}
 .banner img{
     width: 100%;
 
