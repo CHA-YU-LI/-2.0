@@ -20,6 +20,10 @@
     padding-top: 100px;
     line-height: 3;
 }
+.banner img{
+    width: 100%;
+
+}
 .part1-1 img{
     padding: 20px;
 }
@@ -79,6 +83,9 @@
     font-size: 29px;
     color: white;
     padding-bottom: 70px;
+}
+.part1-4{
+    width: 100%;
 }
 .part1-4 a{
     text-decoration: none;
